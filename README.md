@@ -36,5 +36,7 @@ Atualmente, o programa inicia com **12 contas** e **1 imovel**, deixando espaço
 ## Diagrama de classes
 
 <p align="center">
-  <img src="diagrama-classes.jpg" alt="Diagrama de classes do Sistema Gerenciador de Torneios" width="850">
+  <img src="diagrama de classes.png" alt="Diagrama de classes do Sistema Gerenciador de Torneios" width="850">
 </p>
+
+
