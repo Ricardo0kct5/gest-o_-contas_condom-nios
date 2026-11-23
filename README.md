@@ -43,3 +43,21 @@ Atualmente, o programa inicia com **12 contas** e **1 imovel**, deixando espaço
 
 - Java
 
+## Como executar
+
+1. baixe o projeto:
+
+```text
+ contas_energia.zip
+```
+2. Extraia o arquivo:
+```text
+ contas_energia.zip
+```
+3. Abra a pasta do projeto em uma IDE com suporte a Java.
+
+4. Execute a classe principal:
+
+```text
+Contas_energia
+```
