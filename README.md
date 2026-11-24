@@ -36,7 +36,7 @@ Atualmente, o programa inicia com **12 contas** e **1 imovel**, deixando espaço
 ## Diagrama de classes
 
 <p align="center">
-  <img src="diagrama de classes.png" alt="Diagrama de classes do Sistema Gerenciador de Torneios" width="850">
+  <img src="diagrama de classes.png" alt="Diagrama de classes do Sistema de condomínios" width="850">
 </p>
 
 ## Tecnologias
@@ -48,16 +48,16 @@ Atualmente, o programa inicia com **12 contas** e **1 imovel**, deixando espaço
 1. baixe o projeto:
 
 ```text
- contas_energia.zip
+ contas_energia2.0.zip
 ```
 2. Extraia o arquivo:
 ```text
- contas_energia.zip
+ contas_energia2.0.zip
 ```
 3. Abra a pasta do projeto em uma IDE com suporte a Java.
 
 4. Execute a classe principal:
 
 ```text
-Contas_energia
+Contas_energia2.0
 ```
